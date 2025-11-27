@@ -62,9 +62,9 @@ scipy
 
 ### 📂 Project Structure
 
-├── criminal_justice_ai_bias_study.ipynb  # Main analysis notebook
-├── propublica_data_for_fairml.csv        # Dataset (download separately)
-└── README.md                              # This file
+├── criminal_justice_ai_bias_study.ipynb  # Main analysis notebook <br>
+├── propublica_data_for_fairml.csv        # Dataset (download separately) <br>
+└── README.md                             # This file
 
 
 ### 📈 Results Summary
